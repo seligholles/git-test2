@@ -1,1 +1,2 @@
-SELECT * from budget
+SELECT * from budget b
+WHERE b.millions < 2000
