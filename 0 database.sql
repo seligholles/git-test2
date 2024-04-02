@@ -1,1 +1,1 @@
-create database git-test2db
+create database gittest2db
